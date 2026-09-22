@@ -1,0 +1,3 @@
+Все настройки в config.lua
+
+файл turtle_agent на черепашку 
